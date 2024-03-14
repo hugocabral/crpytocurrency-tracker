@@ -1,6 +1,6 @@
 {
   "name": "crpytocurrency-tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/hugocabral/cryptocurrency-tracker.git"
@@ -12,7 +12,11 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.0"
+    "web-vitals": "^1.1.0",
+	"pepetea":"0.1.2",
+	"integer-tea":"0.1.2",
+	"world-weather-app":"1.0.2",
+	"alt-tag-generator":"1.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
