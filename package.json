@@ -1,6 +1,6 @@
 {
-  "name": "crpytocurrency-tracker",
-  "version": "1.0.3",
+  "name": "cryptocurrency-tracker",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/hugocabral/cryptocurrency-tracker.git"
